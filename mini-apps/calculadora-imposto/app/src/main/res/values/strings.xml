@@ -1,0 +1,25 @@
+<resources>
+    <!-- Nome do app -->
+    <string name="app_name">aula09</string>
+
+    <!-- Mensagens -->
+    <string name="success_msg">Imposto calculado com sucesso</string>
+    <string name="error_button_msg">Erro ao encontrar botão</string>
+
+    <!-- Legendas para os EditText (labels) -->
+    <string name="label_salary">Salário mensal</string>
+    <string name="label_expenses">Gastos com saúde e educação</string>
+    <string name="label_dependents">N° de dependentes</string>
+
+    <!-- Texto interno dos EditText (hints) -->
+    <string name="hint_salary">Salário (R$)</string>
+    <string name="hint_expenses">Gastos (R$)</string>
+    <string name="hint_dependents">Dependentes</string>
+
+    <!-- Resultado -->
+    <string name="result_text">SEU IMPOSTO DE RENDA MENSAL:</string>
+    <string name="result_value">R$ 0</string>
+
+    <!-- Botão -->
+    <string name="button_calculate">CALCULAR</string>
+</resources>
