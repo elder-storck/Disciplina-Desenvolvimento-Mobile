@@ -1,0 +1,37 @@
+# Build folders
+/build/
+/app/build/
+/*/build/
+
+# Gradle files
+.gradle/
+/gradle/
+/gradle-wrapper.jar
+
+# Local configuration
+/local.properties
+
+# IDEA/IntelliJ
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# MacOS
+.DS_Store
+
+# Log files
+*.log
+
+# APKs and outputs
+*.apk
+*.ap_
+*.aab
+
+# Kotlin specific
+*.kotlin_module
+
+# Misc
+captures/
+.externalNativeBuild/
+.cxx/
