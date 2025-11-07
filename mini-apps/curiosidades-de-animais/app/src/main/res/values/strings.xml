@@ -1,0 +1,15 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Animal Facts - Elder</string>
+
+    <!-- Screen 1 - Main Activity -->
+    <string name="main_title">Frases de gatos e cachorros</string>
+    <string name="input_name_hint">Digite seu nome</string>
+    <string name="save_button">GUARDAR</string>
+
+    <!-- Screen 2 - Facts Activity -->
+    <string name="welcome_text">Olá, %s</string>
+    <string name="default_welcome">Olá, SEM NOME</string>
+    <string name="generate_another_button">GERAR OUTRA FRASE</string>
+
+</resources>

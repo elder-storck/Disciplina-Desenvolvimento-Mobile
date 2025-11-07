@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary palette -->
+    <color name="primary_blue">#426BA8</color>
+    <color name="primary_blue_light">#5c8dd6</color>
+    <color name="accent_orange">#FFC107</color>
+</resources>
