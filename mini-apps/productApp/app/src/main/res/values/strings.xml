@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">productApp</string>
+    <string name="codigo_do_produto">Código do Produto</string>
+    <string name="nome_do_produto">Nome do Produto</string>
+    <string name="cadastrar_produto">Cadastrar Produto</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="textTop">Registro de Produtos</string>
+    <string name="success_resgister">Produto cadastrado</string>
+    <string name="fail_register">Falha ao cadastrar</string>
+</resources>
