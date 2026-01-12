@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Weather World</string>
+    <string name="city_name">City Name</string>
+    <string name="previse">Previse</string>
+
+<!--    tela weather description-->
+    <string name="city_name_desc">%s</string>
+    <string name="temperature_value">%s°C</string>
+    <string name="temperature_value_with_comma">%s°C, </string>
+    <string name="temp_max">Temperatura máx: %s°C</string>
+    <string name="temp_min">Temperatura min: %s°C</string>
+    <string name="feels_like">Sensação térmica: %s°C</string>
+    <string name="wind_speed">Velocidade do vento: %skm/h</string>
+    <string name="humidity">Humidade do ar: %s%%</string>
+
+<!--    weather conditions-->
+    <string name="clear_sky">Ensolarado</string>
+    <string name="thunderstorm">Tempestade</string>
+    <string name="drizzle">Garoa</string>
+    <string name="rain">Chuva</string>
+    <string name="snow">Neve</string>
+    <string name="clouds">Nuvens</string>
+    <string name="fog">Neblina</string>
+    <string name="atmosphere">Atmosfera</string>
+
+    <string name="api_fail">Falha ao buscar a API</string>
+
+</resources>
