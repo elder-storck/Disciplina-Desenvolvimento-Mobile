@@ -88,9 +88,10 @@ Url para o `GET` : https://api.openweathermap.org/data/2.5/weather?q=saara&appid
 
 
 
-## Layout
-![tela principal](tela1-main.png)
-![tela visualização dos resultados](tela2-descritivo-clima.png)
+<p float="left">
+  <img src="tela1-main.png" width="300" />
+  <img src="tela2-descritivo-clima.png" width="300" />
+</p>
 
 <!-- ## Estrutura do Projeto
 
