@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">productApp</string>
+    <string name="codigo_do_produto">Código do Produto</string>
+    <string name="nome_do_produto">Nome do Produto</string>
+    <string name="cadastrar_produto">Cadastrar Produto</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="textTop">Registro de Produtos</string>
+    <string name="success_resgister">Produto cadastrado</string>
+    <string name="fail_register">Falha ao cadastrar</string>
+    <string name="empty_prod_code_msg">código do produto Vazio</string>
+    <string name="empty_name_msg">nome do Produto Vazio</string>
+    <string name="empty_number_msg">ERROR</string>
+    <string name="error">error desconhecido</string>
+    <string name="search_prod_name">search_prod_name</string>
+    <string name="lista_de_produtos">Lista de Produtos</string>
+    <string name="pagina_lista">pagina-lista</string>
+</resources>
